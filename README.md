@@ -1,0 +1,2 @@
+# PRIVACY_POLICY
+PRIVACY POLICY for my apps
