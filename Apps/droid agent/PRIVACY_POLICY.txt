@@ -2,8 +2,8 @@ DROID AGENT - PRIVACY POLICY
 
 Effective date: 30 September 2026
 App: Droid Agent (package name: com.droidagent.droid_agent)
-Developer: [DEVELOPER NAME]
-Contact: [CONTACT EMAIL]
+Developer: mohamed haroon
+Contact: digitalstream04@gmail.com
 
 
 1. SUMMARY
